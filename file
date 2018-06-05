@@ -1,0 +1,6 @@
+<html>
+<head>New_World</head>
+<body>
+ window.print("New_world");
+ </body>
+ </html>
